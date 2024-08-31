@@ -43,6 +43,10 @@ Data can be found in the [YoLink_temp_data](YoLink_temp_data) folder.
             </a>
         </p>
 
+The water in the left compartment froze solid after \~1 day. The water in the right compartment was only like 1/6 frozen after \~1 day.
+
+The water in the right compartment was ~2/3 frozen solid after 1.5 days. 
+
 
 # My thoughts
 
