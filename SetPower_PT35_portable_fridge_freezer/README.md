@@ -50,3 +50,15 @@ Data can be found in the [YoLink_temp_data](YoLink_temp_data) folder.
 
 1. I am concerned that the display readings are off by so much, especially the right display in my case. Is there a calibration or offset procedure I can apply to make the display more accurate? If there isn't, there should be. 
 
+
+# Customer service info
+
+1. Email: support@setpowerusa.com
+1. Per the user manual, if you email them, you need to include the following information:
+    1. Amazon order ID
+    1. Unit model
+    1. Phone number
+    1. Description of the defect
+    1. Delivery address
+    1. Videos or photos related to the defect 
+
